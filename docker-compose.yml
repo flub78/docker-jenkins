@@ -1,0 +1,8 @@
+version: '2'
+services:
+  jenkins:
+    image: flub78/jenkins:latest
+    volumes:
+      - /data/docker/jenkins:/var/jenkins_home
+ 
+
