@@ -1,0 +1,1 @@
+php /usr/local/share/php/phploc-2.0.6.phar $*

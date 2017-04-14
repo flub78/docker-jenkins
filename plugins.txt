@@ -1,0 +1,9 @@
+clover:4.7.0
+cloverphp:0.5
+crap4j:0.9
+git:3.0.0
+htmlpublisher:1.9
+phing:0.13.3
+plot:1.9
+analysis-collector:1.48
+xunit:1.102

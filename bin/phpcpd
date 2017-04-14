@@ -1,0 +1,1 @@
+php /usr/local/share/php/phpcpd-2.0.1.phar $*

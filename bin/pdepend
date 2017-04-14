@@ -1,0 +1,2 @@
+php /usr/local/share/php/pdepend.phar $*
+
